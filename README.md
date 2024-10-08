@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Marinus Retra, a game developer, i make games. Preferably puzzle games.
+I am Marinus Retra, a game developer, I make games. Preferably puzzle games.
 
 A couple things about me:
 
