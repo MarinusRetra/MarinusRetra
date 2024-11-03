@@ -8,7 +8,7 @@ A couple things about me:
 - 💬 Ask me about game development, or just games.
 - 📫 How to reach me: mwwretra@st.noorderpoort.nl
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: The total length of all your blood vessels combined is more than 96,000 kilometers, which is enough to wrap around the world twice.
+- ⚡ Fun fact: If you take someone's blood vessels and lay them out in a straight line, they'll die
 
   
 - Portfolio: https://marinusretra.github.io/Portfolio-website/Portfolio.html
