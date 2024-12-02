@@ -3,7 +3,7 @@ I am Marinus Retra, a game developer, I make games.
 
 A couple things about me:
 
-- 🔭 I’m currently working on a firt person shooter.
+- 🔭 I’m currently working on a first person shooter.
 - 🌱 I’m currently learning Unreal Engine
 - 💬 Ask me about game development, or just games in general.
 - 📫 How to reach me: mwwretra@st.noorderpoort.nl
