@@ -11,5 +11,5 @@ A couple things about me:
 - ⚡ Fun fact: If you take all of someone's blood vessels and lay them out in a straight line, they'll die
 
   
-- Portfolio: https://marinusretra.github.io/Portfolio-website/Portfolio.html
+- Portfolio: Under construction.
 - LinkedIn: https://www.linkedin.com/in/marinus-retra-12807a2b9/?locale=en_US
