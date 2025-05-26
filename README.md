@@ -4,7 +4,7 @@ I am Marinus Retra, a game developer, I make games.
 A couple things about me:
 
 - 🔭 I’m currently working as an intern at DilemmaManager.
-- 🌱 I’m currently learning Unreal Engine.
+- 🌱 I’m currently learning Haskell.
 - 💬 Ask me about game development, or just games in general.
 - 📫 How to reach me: mwwretra@st.noorderpoort.nl
 - 😄 Pronouns: he/him
