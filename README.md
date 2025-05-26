@@ -7,8 +7,8 @@ A couple things about me:
 - 🌱 I’m currently learning Haskell.
 - 💬 Ask me about game development, or just games in general.
 - 📫 How to reach me: mwwretra@st.noorderpoort.nl
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: If you take all of someone's blood vessels and lay them out in a straight line, they'll die
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: If you take all of someone's blood vessels and lay them out in a straight line, they'll die.
 
   
 - Portfolio: Under construction.
