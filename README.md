@@ -3,8 +3,7 @@ I am Marinus Retra, a game developer, I make games.
 
 A couple things about me:
 
-- 🔭 I’m currently working as an intern at DilemmaManager.
-- 🌱 I’m currently learning, a bunch of stuff really.
+- 🔭 I’m currently on summer break, doing not that much. (I hope.)
 - 💬 Ask me about game development, or just games in general.
 - 📫 How to reach me: mwwretra@st.noorderpoort.nl
 - 😄 Pronouns: he/him.
